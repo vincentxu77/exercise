@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div id="app">
+
+    <button @click="fn">dianji</button>
+    <div id="div1">
+        {{num}}
+    </div>
+</div>
+
+<script src="vue.js"></script>
+
+<script>
+    var vm = new Vue({
+        el:'#app',
+        data:{
+            num:0
+
+        },
+        methods:{
+            fn:function(){
+                console.log(this);
+            }
+        }
+    });
+</script>
+</body>
+</html>
