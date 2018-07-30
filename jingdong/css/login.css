@@ -1,0 +1,255 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* header start */
+
+a {
+    text-decoration: none;
+    color: rgb(109, 109, 109);
+}
+
+.header p {
+    font-size: 24px;
+    margin: 22px 16px;
+    color: black;
+    opacity: 0.7;
+    display: inline-block;
+    position: absolute;
+}
+
+.header img {
+    vertical-align: middle;
+    width: 170px;
+    height: 60px;
+    display: inline-block;
+}
+
+.header {
+    width: 990px;
+    height: 60px;
+    margin: 10px auto;
+    position: relative;
+}
+
+/* header end */
+
+/* tips start */
+
+.tips {
+    background: #fff8f0;
+    width: 100%;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    text-align: center;
+}
+
+.tips p {
+    vertical-align: middle;
+    color: #999;
+    font-size: 12px;
+    display: inline-block;
+}
+
+.icon {
+    width: 16px;
+    height: 16px;
+    background: url("../img/icon-tips.png") no-repeat;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+/* tips end */
+
+/* container start */
+
+.container {
+    background: url(../img/login-bg.jpg) center no-repeat #49E7FF;
+    ;
+    height: 475px;
+}
+
+.container .login-bar {
+    width: 990px;
+    margin: 0 auto;
+}
+
+.container .login-form {
+    width: 346px;
+    height: 400px;
+    background: #ffffff;
+    float: right;
+    margin-top: 37px;
+}
+
+
+.login-tab {
+    height: 54px;
+    font-size: 18px;
+    font-family: "microsoft yahei";
+    text-align: center;
+    border-bottom: 1px solid #f4f4f4;
+    background: #fff;
+}
+
+.login-tab a {
+    width: 99%;
+    display: inline-block;
+    margin: 15px 0;
+}
+
+.login-tab a:hover {
+    color: #e4393c;
+    font-weight: 700;
+}
+
+.login-tab-l {
+    display: inline-block;
+    width: 49%;
+}
+
+.login-tab-r {
+    display: inline-block;
+    width: 49%;
+}
+
+.form{
+    position: relative;
+    padding: 30px 20px;
+}
+
+.name-label {
+    position: absolute;
+    width: 38px;
+    height: 38px;
+    border-right: 1px solid #bdbdbd;
+    background: url(../img/input-icon.png) no-repeat;
+    top:31px;
+    left: 21px;
+}
+
+.pwb-label{
+    position: absolute;
+    width: 38px;
+    height: 38px;
+    border-right: 1px solid #bdbdbd;
+    background: url(../img/input-icon.png) no-repeat;
+    top:91px;
+    left: 21px;
+    background-position: -48px 0;
+}
+
+.form input{
+    line-height: 16px;
+    height: 16px;
+    padding: 10px 0 10px 50px;
+    width: 254px;
+    font-size: 14px;
+    font-family: '\5b8b\4f53';
+    margin-bottom: 20px;
+}
+
+.btn input{
+    text-align: center;
+    cursor: pointer;
+    border: 1px solid #e85356;
+    display: block;
+    width: 302px;
+    background: #e4393c;
+    height: 31px;
+    line-height: 31px;
+    color: #fff;
+    font-size: 20px;
+    font-family: 'Microsoft YaHei';
+    margin: 15px 0 20px;
+    padding: 0;
+}
+
+.coagent{
+    border-top:1px solid #f4f4f4; 
+    text-align: center;
+    height: 37px;
+    width: 306px;
+    line-height: 37px;
+    margin: 0 auto;
+}
+
+.coagent .pdl{
+    display: inline-block;
+    font-size: 12px;
+    float: left;
+}
+
+.coagent .pdl  a{
+    display: inline-block;
+    color: #666;
+    text-decoration: none;
+    vertical-align: center;
+}
+
+.coagent a:hover{
+    color: red;
+    text-decoration: underline;
+}
+
+.qq-icon{
+    display: inline-block;
+}
+
+
+.weixin-icon{
+    display: inline-block;
+}
+
+.coagent .qq-icon i{
+    height: 18px;
+    width: 19px;
+    background:url(../img/QQ-weixin.png);
+    vertical-align: center;
+    display: inline-block;
+    margin: -4px 5px -4px 0;
+}
+
+.coagent .weixin-icon i{
+    height: 18px;
+    width: 19px;
+    background:url(../img/QQ-weixin.png) -20px 0;
+    display: inline-block;
+    margin:-4px 5px -4px 0;
+}
+
+.coagent .line{
+    display: inline-block;
+    color: #ccc;
+    padding: 0 10px;
+}
+
+.coagent .regist-link{
+    display: inline-block;
+    float: right;
+}
+
+.coagent .regist-link i{
+    background: url("../img/input-icon.png") -104px -75px;
+    display: inline-block;
+    height: 16px;
+    width: 16px;
+    margin: -2px 5px;
+}
+
+/* footer start */
+.footer{
+    width: 990px;
+    margin: 0 auto;
+}
+
+.footer p{
+    display: block;
+    height: 50px;
+    width: 990px;
+    padding: 25px 0;
+    text-align: center;
+}
+
+/* footer end */
