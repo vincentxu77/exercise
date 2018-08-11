@@ -2,23 +2,53 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e1de1b4-1802-43c5-ba0c-0d3349479a0f" name="默认的" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/jingdong/css/index.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jingdong/font/iconfont.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jingdong/font/iconfont.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jingdong/font/iconfont.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jingdong/font/iconfont.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jingdong/img/icon-slides.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jingdong/img/img1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jingdong/img/img2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jingdong/img/img3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jingdong/img/mobile_qrcode.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jingdong/img/nav-ad.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jingdong/img/no_login.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jingdong/img/slider-bg1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jingdong/img/sprite-photo-search.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jingdong/img/sprite.head.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jingdong/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jingdong/jingdong-htm/css/index.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jingdong/jingdong-htm/css/login.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jingdong/jingdong-htm/font/iconfont.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jingdong/jingdong-htm/font/iconfont.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jingdong/jingdong-htm/font/iconfont.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jingdong/jingdong-htm/font/iconfont.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jingdong/jingdong-htm/img/QQ-weixin.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jingdong/jingdong-htm/img/icon-slides.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jingdong/jingdong-htm/img/icon-tips.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jingdong/jingdong-htm/img/img1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jingdong/jingdong-htm/img/img2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jingdong/jingdong-htm/img/img3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jingdong/jingdong-htm/img/input-icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jingdong/jingdong-htm/img/login-bg.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jingdong/jingdong-htm/img/logo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jingdong/jingdong-htm/img/mobile_qrcode.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jingdong/jingdong-htm/img/nav-ad.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jingdong/jingdong-htm/img/no_login.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jingdong/jingdong-htm/img/slider-bg1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jingdong/jingdong-htm/img/sprite-photo-search.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jingdong/jingdong-htm/img/sprite.head.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jingdong/jingdong-htm/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jingdong/jingdong-htm/login.html" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/jingdong/css/index.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/jingdong/css/login.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/jingdong/font/iconfont.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/jingdong/font/iconfont.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/jingdong/font/iconfont.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/jingdong/font/iconfont.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/jingdong/img/QQ-weixin.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/jingdong/img/icon-slides.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/jingdong/img/icon-tips.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/jingdong/img/img1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/jingdong/img/img2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/jingdong/img/img3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/jingdong/img/input-icon.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/jingdong/img/login-bg.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/jingdong/img/logo.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/jingdong/img/mobile_qrcode.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/jingdong/img/nav-ad.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/jingdong/img/no_login.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/jingdong/img/slider-bg1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/jingdong/img/sprite-photo-search.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/jingdong/img/sprite.head.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/jingdong/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/jingdong/login.html" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -31,44 +61,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/jingdong/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2051">
-              <caret line="227" column="30" lean-forward="true" selection-start-line="227" selection-start-column="30" selection-end-line="227" selection-end-column="30" />
-              <folding>
-                <element signature="e#439#445#0" expanded="true" />
-                <element signature="e#445#451#0" expanded="true" />
-                <element signature="n#style#0;n#a#1;n#li#0;n#ul#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#i#0;n#div#1;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#1832#1838#0" expanded="true" />
-                <element signature="e#1838#1844#0" expanded="true" />
-                <element signature="e#1844#1850#0" expanded="true" />
-                <element signature="e#1850#1856#0" expanded="true" />
-                <element signature="e#1856#1862#0" expanded="true" />
-                <element signature="e#1893#1899#0" expanded="true" />
-                <element signature="e#1899#1905#0" expanded="true" />
-                <element signature="e#1937#1943#0" expanded="true" />
-                <element signature="e#1943#1949#0" expanded="true" />
-                <element signature="e#1981#1987#0" expanded="true" />
-                <element signature="e#1987#1993#0" expanded="true" />
-                <element signature="e#2024#2030#0" expanded="true" />
-                <element signature="e#2030#2036#0" expanded="true" />
-                <element signature="e#2072#2078#0" expanded="true" />
-                <element signature="e#2078#2084#0" expanded="true" />
-                <element signature="e#2116#2122#0" expanded="true" />
-                <element signature="e#2122#2128#0" expanded="true" />
-                <element signature="e#2160#2166#0" expanded="true" />
-                <element signature="e#2166#2172#0" expanded="true" />
-                <element signature="e#2203#2209#0" expanded="true" />
-                <element signature="e#2209#2215#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -131,6 +124,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -148,19 +143,23 @@
               <item name="exercise" type="462c0819:PsiDirectoryNode" />
               <item name="jingdong" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="exercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="jingdong" type="462c0819:PsiDirectoryNode" />
+              <item name="jingdong-htm" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../fellows20" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
@@ -202,7 +201,9 @@
       <workItem from="1530600022613" duration="67000" />
       <workItem from="1530690293086" duration="6212000" />
       <workItem from="1530788644680" duration="1203000" />
-      <workItem from="1532957955610" duration="39899000" />
+      <workItem from="1532957955610" duration="40228000" />
+      <workItem from="1533296890858" duration="402000" />
+      <workItem from="1533974930042" duration="22000" />
     </task>
     <task id="LOCAL-00001" summary="move">
       <created>1530589178194</created>
@@ -225,11 +226,18 @@
       <option name="project" value="LOCAL" />
       <updated>1532958197876</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="用自己的方式实现了京东首页的静态页面，有待优化重构，接下来补充JS达到动态效果。">
+      <created>1533291141357</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1533291141357</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51910000" />
+    <option name="totallyTimeSpent" value="52663000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -240,7 +248,6 @@
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="消息" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32933104" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -250,6 +257,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="消息" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32933104" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -266,13 +274,21 @@
     <MESSAGE value="move" />
     <MESSAGE value="完成页面回到顶部的按键，通过BOM操作和CSS实现按钮和页面滚动的动画效果。通过CSS3语法使按钮不覆盖文本，使文本不影响按钮点击。" />
     <MESSAGE value="用简单的html+css实现京东商城的静态登录页面。" />
-    <option name="LAST_COMMIT_MESSAGE" value="用简单的html+css实现京东商城的静态登录页面。" />
+    <MESSAGE value="用自己的方式实现了京东首页的静态页面，有待优化重构，接下来补充JS达到动态效果。" />
+    <option name="LAST_COMMIT_MESSAGE" value="用自己的方式实现了京东首页的静态页面，有待优化重构，接下来补充JS达到动态效果。" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/jingdong/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/go_top/go_top.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -332,7 +348,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1353">
           <caret line="163" column="33" lean-forward="false" selection-start-line="163" selection-start-column="28" selection-end-line="163" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -350,10 +365,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-19">
           <caret line="16" column="37" lean-forward="true" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
-          <folding>
-            <element signature="n#style#0;n#a#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -386,7 +397,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-396">
           <caret line="15" column="19" lean-forward="false" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -409,41 +419,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="335">
           <caret line="489" column="25" lean-forward="false" selection-start-line="489" selection-start-column="25" selection-end-line="489" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/jingdong/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2051">
-          <caret line="227" column="30" lean-forward="true" selection-start-line="227" selection-start-column="30" selection-end-line="227" selection-end-column="30" />
-          <folding>
-            <element signature="e#439#445#0" expanded="true" />
-            <element signature="e#445#451#0" expanded="true" />
-            <element signature="n#style#0;n#a#1;n#li#0;n#ul#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#i#0;n#div#1;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#1832#1838#0" expanded="true" />
-            <element signature="e#1838#1844#0" expanded="true" />
-            <element signature="e#1844#1850#0" expanded="true" />
-            <element signature="e#1850#1856#0" expanded="true" />
-            <element signature="e#1856#1862#0" expanded="true" />
-            <element signature="e#1893#1899#0" expanded="true" />
-            <element signature="e#1899#1905#0" expanded="true" />
-            <element signature="e#1937#1943#0" expanded="true" />
-            <element signature="e#1943#1949#0" expanded="true" />
-            <element signature="e#1981#1987#0" expanded="true" />
-            <element signature="e#1987#1993#0" expanded="true" />
-            <element signature="e#2024#2030#0" expanded="true" />
-            <element signature="e#2030#2036#0" expanded="true" />
-            <element signature="e#2072#2078#0" expanded="true" />
-            <element signature="e#2078#2084#0" expanded="true" />
-            <element signature="e#2116#2122#0" expanded="true" />
-            <element signature="e#2122#2128#0" expanded="true" />
-            <element signature="e#2160#2166#0" expanded="true" />
-            <element signature="e#2166#2172#0" expanded="true" />
-            <element signature="e#2203#2209#0" expanded="true" />
-            <element signature="e#2209#2215#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="468">
+          <caret line="227" column="30" lean-forward="false" selection-start-line="227" selection-start-column="30" selection-end-line="227" selection-end-column="30" />
         </state>
       </provider>
     </entry>
