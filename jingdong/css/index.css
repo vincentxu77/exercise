@@ -330,6 +330,43 @@ body{
     font-size: 0;
     list-style: none;
 }
+#fs  .cate_menu li:hover{
+    background-color: rgba(0, 0, 0, 0.1);
+}
+#fs  .cate_menu .it1:hover .list-item1{
+    display: block;
+}
+#fs .cate_menu .list-item1{
+    background: #fff;
+    position: absolute;
+    left:190px;
+    top: 10px;
+    height: 480px;
+    width: 1000px;
+    border-top:1px solid #e0e0e0;
+    box-shadow: 0px 8px 16px rgba(0,0,0,0.18);
+    z-index: 10;
+    font-family: "Arial Black";
+    color: #4f4e56;
+    display: none;
+}
+#fs  .cate_menu .it2:hover .list-item2{
+    display: block;
+}
+#fs .cate_menu .list-item2{
+    background: #fff;
+    position: absolute;
+    left:190px;
+    top: 10px;
+    height: 480px;
+    width: 1000px;
+    border-top:1px solid #e0e0e0;
+    box-shadow: 0px 8px 16px rgba(0,0,0,0.18);
+    z-index: 10;
+    font-family: "Arial Black";
+    color: #4f4e56;
+    display: none;
+}
 #fs .menu a{
     display: inline-block;
     text-decoration: none;
@@ -351,24 +388,44 @@ body{
     top:0;
     left: 0;
     margin: 10px 10px 0 10px;
+    overflow: hidden;
+}
+#fs .slider #box{
+    position: relative;
+    width: 590px;
+    height: 470px;
+}
+.slider ul{
+    list-style: none;
+}
+.slider .list {
+    position: absolute;
+    list-style: none;
+    width: 5310px;
+    height: 470px;
+}
+.slider .list li{
+    float: left;
+    width: 590px;
+    height: 470px;
 }
 #fs  .si-top{
     position: absolute;
     top: 265px;
-    left: 200px;
     height: 70px;
     margin-top:-35px;
     width: 590px;
 }
-#fs .si-top a{
+#fs .si-top li{
     display: block;
     width: 41px;
     height: 69px;
     background-image: url("../img/icon-slides.png");
     position: absolute;
     background-position: -85px 0;
+    cursor: pointer;
 }
-#fs .si-top a:last-child{
+#fs .si-top li:last-child{
     right: 0;
     background-position: -125px 0;
 }
@@ -381,7 +438,7 @@ body{
 #fs .si-bottom{
     position:absolute;
     bottom: 25px;
-    left: 250px;
+    left: 46px;
 }
 #fs .si-bottom li{
     float: left;
@@ -389,7 +446,7 @@ body{
     bottom: 10px;
     left: 10px;
 }
-#fs .si-bottom a{
+#fs .si-bottom li{
     display: block;
     width: 8px;
     height: 8px;
@@ -399,7 +456,7 @@ body{
     border-color: rgba(255,255,255,0.3);
     background: rgba(0,0,0,0);
 }
-#fs .si-bottom a:hover{
+#fs .si-bottom li.active{
     background-color: white;
     border-color: rgba(0,0,0,0.4);
 }
