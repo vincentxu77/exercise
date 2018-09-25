@@ -2,61 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e1de1b4-1802-43c5-ba0c-0d3349479a0f" name="默认的" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/jingdong/css/index.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jingdong/css/login.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jingdong/font/iconfont.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jingdong/font/iconfont.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jingdong/font/iconfont.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jingdong/font/iconfont.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jingdong/img/01.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jingdong/img/02.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jingdong/img/03.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jingdong/img/04.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jingdong/img/05.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jingdong/img/06.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jingdong/img/07.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jingdong/img/08.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jingdong/img/QQ-weixin.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jingdong/img/icon-slides.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jingdong/img/icon-tips.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jingdong/img/img1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jingdong/img/img2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jingdong/img/img3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jingdong/img/input-icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jingdong/img/login-bg.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jingdong/img/logo.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jingdong/img/mobile_qrcode.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jingdong/img/nav-ad.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jingdong/img/no_login.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jingdong/img/sprite-photo-search.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jingdong/img/sprite.head.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jingdong/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jingdong/js/indexJs.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jingdong/login.html" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/jingdong/jingdong-htm/css/index.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jingdong/jingdong-htm/css/login.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jingdong/jingdong-htm/font/iconfont.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jingdong/jingdong-htm/font/iconfont.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jingdong/jingdong-htm/font/iconfont.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jingdong/jingdong-htm/font/iconfont.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jingdong/jingdong-htm/img/QQ-weixin.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jingdong/jingdong-htm/img/icon-slides.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jingdong/jingdong-htm/img/icon-tips.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jingdong/jingdong-htm/img/img1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jingdong/jingdong-htm/img/img2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jingdong/jingdong-htm/img/img3.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jingdong/jingdong-htm/img/input-icon.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jingdong/jingdong-htm/img/login-bg.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jingdong/jingdong-htm/img/logo.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jingdong/jingdong-htm/img/mobile_qrcode.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jingdong/jingdong-htm/img/nav-ad.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jingdong/jingdong-htm/img/no_login.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jingdong/jingdong-htm/img/slider-bg1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jingdong/jingdong-htm/img/sprite-photo-search.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jingdong/jingdong-htm/img/sprite.head.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jingdong/jingdong-htm/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jingdong/jingdong-htm/login.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/eshop/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/eshop/css/iconfont.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/eshop/css/index.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/eshop/css/index1.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/eshop/css/style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/eshop/css/styletest.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/eshop/font/iconfont.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/eshop/font/iconfont.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/eshop/font/iconfont.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/eshop/font/iconfont.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/eshop/img/11.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/eshop/img/22.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/eshop/img/banner.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/eshop/img/img01.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/eshop/img/img02.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/eshop/img/img03.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/eshop/img/img05.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/eshop/img/mi-logo.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/eshop/img/note3-80-2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/eshop/img/p-1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/eshop/img/pro01.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/eshop/img/pro02.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/eshop/img/pro03.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/eshop/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/eshop/js/jquery-1.12.4.js" afterPath="$PROJECT_DIR$/jingdong/js/jquery-3.3.1.js" />
+      <change beforePath="$PROJECT_DIR$/jingdong/css/index.css" afterPath="$PROJECT_DIR$/jingdong/css/index.css" />
+      <change beforePath="$PROJECT_DIR$/jingdong/index.html" afterPath="$PROJECT_DIR$/jingdong/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -69,26 +42,31 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="indexJs.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jingdong/js/indexJs.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="759">
-              <caret line="23" column="1" lean-forward="false" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/jingdong/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="433">
-              <caret line="105" column="67" lean-forward="false" selection-start-line="105" selection-start-column="67" selection-end-line="105" selection-end-column="67" />
+            <state relative-caret-position="-5174">
+              <caret line="112" column="32" lean-forward="false" selection-start-line="112" selection-start-column="32" selection-end-line="112" selection-end-column="32" />
               <folding>
                 <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#style#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#li#5;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#li#6;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#li#7;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#li#8;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#li#9;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#li#10;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#li#11;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#li#12;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#li#13;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#li#14;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#li#15;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#li#16;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -97,8 +75,8 @@
       <file leaf-file-name="index.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jingdong/css/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="403">
-              <caret line="352" column="16" lean-forward="false" selection-start-line="352" selection-start-column="16" selection-end-line="352" selection-end-column="16" />
+            <state relative-caret-position="297">
+              <caret line="335" column="0" lean-forward="false" selection-start-line="335" selection-start-column="0" selection-end-line="335" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -125,6 +103,7 @@
       <find>sl</find>
       <find>font-size</find>
       <find>list-i</find>
+      <find>item</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -140,8 +119,8 @@
         <option value="$PROJECT_DIR$/jingdong/css/login.css" />
         <option value="$PROJECT_DIR$/test.html" />
         <option value="$PROJECT_DIR$/jingdong/js/indexJs.js" />
-        <option value="$PROJECT_DIR$/jingdong/index.html" />
         <option value="$PROJECT_DIR$/jingdong/css/index.css" />
+        <option value="$PROJECT_DIR$/jingdong/index.html" />
       </list>
     </option>
   </component>
@@ -187,12 +166,24 @@
             <path>
               <item name="exercise" type="b2602c69:ProjectViewProjectNode" />
               <item name="exercise" type="462c0819:PsiDirectoryNode" />
-              <item name="go_top" type="462c0819:PsiDirectoryNode" />
+              <item name="jingdong" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="exercise" type="b2602c69:ProjectViewProjectNode" />
               <item name="exercise" type="462c0819:PsiDirectoryNode" />
               <item name="jingdong" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="jingdong" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="vuetest" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -208,11 +199,12 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\studyDemo\exercise\jingdong\js" />
       <recent name="D:\studyDemo\exercise\jingdong\img" />
       <recent name="D:\studyDemo\exercise\go_top" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\studyDemo\exercise\jingdong\img" />
       <recent name="D:\studyDemo\exercise\go_top" />
     </key>
@@ -253,7 +245,8 @@
       <workItem from="1537351247764" duration="260000" />
       <workItem from="1537693854232" duration="11257000" />
       <workItem from="1537710783372" duration="371000" />
-      <workItem from="1537712552652" duration="3320000" />
+      <workItem from="1537712552652" duration="4684000" />
+      <workItem from="1537850427917" duration="4509000" />
     </task>
     <task id="LOCAL-00001" summary="move">
       <created>1530589178194</created>
@@ -290,16 +283,24 @@
       <option name="project" value="LOCAL" />
       <updated>1533975004555</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="小小改动，实现无缝滚动轮播图。">
+      <created>1537715933223</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1537715933223</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70347000" />
+    <option name="totallyTimeSpent" value="76220000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18601191" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18601191" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -332,7 +333,8 @@
     <MESSAGE value="完成页面回到顶部的按键，通过BOM操作和CSS实现按钮和页面滚动的动画效果。通过CSS3语法使按钮不覆盖文本，使文本不影响按钮点击。" />
     <MESSAGE value="用简单的html+css实现京东商城的静态登录页面。" />
     <MESSAGE value="用自己的方式实现了京东首页的静态页面，有待优化重构，接下来补充JS达到动态效果。" />
-    <option name="LAST_COMMIT_MESSAGE" value="用自己的方式实现了京东首页的静态页面，有待优化重构，接下来补充JS达到动态效果。" />
+    <MESSAGE value="小小改动，实现无缝滚动轮播图。" />
+    <option name="LAST_COMMIT_MESSAGE" value="小小改动，实现无缝滚动轮播图。" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -355,6 +357,21 @@
             <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#li#5;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#li#6;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#li#7;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#li#8;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#li#9;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#li#10;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#li#11;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#li#12;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#li#13;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#li#14;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#li#15;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#li#16;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -383,6 +400,21 @@
             <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#li#5;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#li#6;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#li#7;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#li#8;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#li#9;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#li#10;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#li#11;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#li#12;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#li#13;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#li#14;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#li#15;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#li#16;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -468,6 +500,8 @@
     <entry file="file://$PROJECT_DIR$/jingdong/img/icon-slides.png" />
     <entry file="file://$PROJECT_DIR$/jingdong/img/no_login.jpg" />
     <entry file="file://$PROJECT_DIR$/jingdong/jingdong-htm/index.html" />
+    <entry file="file://$PROJECT_DIR$/eshop/README.md" />
+    <entry file="file://$PROJECT_DIR$/eshop/index.html" />
     <entry file="file://$PROJECT_DIR$/jingdong/js/indexJs.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="759">
@@ -476,22 +510,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/jingdong/js/jquery-3.3.1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/jingdong/css/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="352" column="16" lean-forward="false" selection-start-line="352" selection-start-column="16" selection-end-line="352" selection-end-column="16" />
+        <state relative-caret-position="297">
+          <caret line="335" column="0" lean-forward="false" selection-start-line="335" selection-start-column="0" selection-end-line="335" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/jingdong/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="433">
-          <caret line="105" column="67" lean-forward="false" selection-start-line="105" selection-start-column="67" selection-end-line="105" selection-end-column="67" />
+        <state relative-caret-position="-5174">
+          <caret line="112" column="32" lean-forward="false" selection-start-line="112" selection-start-column="32" selection-end-line="112" selection-end-column="32" />
           <folding>
             <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#li#5;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#li#6;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#li#7;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#li#8;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#li#9;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#li#10;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#li#11;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#li#12;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#li#13;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#li#14;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#li#15;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#li#16;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
