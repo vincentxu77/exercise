@@ -334,7 +334,7 @@ body{
     background-color: rgba(0, 0, 0, 0.1);
 }
 
-.active{
+.show{
     background: #fff;
     position: absolute;
     left:190px;

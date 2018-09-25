@@ -279,10 +279,10 @@
     for(let i=0;i<$oIn.length;i++){
         $oIn.eq(i).hover(
             function () {
-                $(this).children("div").addClass("active")
+                $(this).children("div").addClass("show")
             },
             function () {
-                $(this).children("div").removeClass("active")
+                $(this).children("div").removeClass("show")
             }
         )
     }
