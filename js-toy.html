@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>小玩具</title>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        body{
+            background: #000000;
+        }
+        #ball{
+            position: absolute;
+            top: 0;
+            left: 510px;
+            background: #ffffff;
+        }
+        #cvs{
+            position: absolute;
+            margin: 0 auto;
+            background: #ffffff;
+        }
+    </style>
+</head>
+<div>
+<canvas id="cvs" width="500" height="500"></canvas>
+<div id="ball">
+<div id="tone0"></div>
+<div id="tone1"></div>
+<div id="tone2"></div>
+<div id="tone3"></div>
+<div id="tone4"></div>
+<div id="tone5"></div>
+<div id="tone6"></div>
+<button type="button" id="cilckMe" onclick="getway()">点我生成双色球</button>
+</div>
+<script>
+    function getway(){
+        //定义一个数组 用来装红色球的随机数
+        var reds=[parseInt(Math.random()*33+1)];  //1-33的随机数
+        //定义一个数组 用来装蓝色球的随机数
+        var blues=[parseInt(Math.random()*16+1)];  //1-16的随机数
+
+        while(reds.length<6){   //双色球是6红1蓝，故长度小于6  说明会循环5次  因为前面reds已经有一次的默认值
+            var r=parseInt(Math.random()*33+1);  //定义r  随机数的取值与reds一致  用于与reds作比较
+            for (var i = 0; i < reds.length; i++) {
+                if (reds[i]==r) {       //若 reds中的随机值与r中的相等，则跳出，继续i++取值
+                    break;                //若reds中的随机值与r中的不相等，则进入else if
+                } else if(i==reds.length-1){  //reds.length-1 --> 原先的reds.length为5，减1为4，而数组是从0 开始算，所以这里会循环5次，刚好与 reds.length<6 同步；且 i等于reds.length-1，是让随机数循环5次（另外就是让它找到定义中的最后一位数）
+                    reds.push(r);               //将r中的值添加到reds中    push()：向数组中添加元素
+//值得注意是！r与reds作比较时，是以reds中现有的数作比较，因为 reds.push(r); 这句代码已经向reds中添加了数值，所以r不是以reds中自身产生的随机数作比较，而是原先r添加到reds中的值作比较
+                }
+            }
+        }
+        //document.write(reds);
+        //排序
+        reds.sort(function compare(a,b) {
+            return a-b;
+        })
+        //打印随机数
+        for (var h = 0; h < reds.length; h++) {
+            document.getElementById('tone'+h+'').innerHTML=reds[h];
+        }
+        document.getElementById('tone6').innerHTML=blues;
+    }
+    var oCvs = document.querySelector('#cvs');
+
+    var oCtx = oCvs.getContext('2d');
+
+    oCvs.onmousedown = function(e){
+        oCtx.moveTo(e.clientX, e.clientY);
+        oCvs.onmousemove = function(e){
+            oCtx.lineTo(e.clientX, e.clientY);
+            oCtx.strokeStyle = 'blue';
+            oCtx.stroke();
+        }
+    }
+    oCvs.onmouseup = function(){
+            oCvs.onmousemove = null;
+        }
+</script>
+</body>
+</html>
