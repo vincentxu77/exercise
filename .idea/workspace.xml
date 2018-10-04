@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7e1de1b4-1802-43c5-ba0c-0d3349479a0f" name="默认的" comment="默认的">
-      <change afterPath="$PROJECT_DIR$/vuetest/js-toy.html" afterDir="false" />
+    <list default="true" id="7e1de1b4-1802-43c5-ba0c-0d3349479a0f" name="默认的" comment="一个有点意思的小功能（H5画板和随机双色球）">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jingdong/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/jingdong/css/index.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,40 +18,46 @@
     <session id="428213726">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.1" value="1" />
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="html" value="2" />
+          <entry key="js" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTML" value="2" />
+          <entry key="JavaScript" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+          <entry key="css" value="116" />
           <entry key="html" value="89" />
+          <entry key="txt" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+          <entry key="CSS" value="116" />
           <entry key="HTML" value="89" />
+          <entry key="PLAIN_TEXT" value="25" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/jingdong/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="470">
+            <state relative-caret-position="73">
               <caret line="277" column="26" selection-start-line="277" selection-start-column="26" selection-end-line="277" selection-end-column="26" />
               <folding>
                 <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
@@ -78,19 +84,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/双色球.html">
+        <entry file="file://$PROJECT_DIR$/js-toy.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="356">
-              <caret line="46" column="74" lean-forward="true" selection-start-line="39" selection-start-column="4" selection-end-line="46" selection-end-column="74" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/vuetest/js-toy.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
-              <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+            <state relative-caret-position="191">
+              <caret line="80" column="36" selection-start-line="80" selection-start-column="36" selection-end-line="80" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -98,8 +95,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jingdong/css/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="11088">
-              <caret line="336" column="5" selection-start-line="336" selection-start-column="5" selection-end-line="336" selection-end-column="5" />
+            <state relative-caret-position="238">
+              <caret line="438" column="30" lean-forward="true" selection-start-line="438" selection-start-column="30" selection-end-line="438" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vuetest/vue.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8382">
+              <caret line="456" column="1" lean-forward="true" selection-start-line="456" selection-start-column="1" selection-end-line="456" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -142,9 +148,9 @@
         <option value="$PROJECT_DIR$/jingdong/css/login.css" />
         <option value="$PROJECT_DIR$/test.html" />
         <option value="$PROJECT_DIR$/jingdong/js/indexJs.js" />
-        <option value="$PROJECT_DIR$/jingdong/css/index.css" />
         <option value="$PROJECT_DIR$/jingdong/index.html" />
         <option value="$PROJECT_DIR$/vuetest/js-toy.html" />
+        <option value="$PROJECT_DIR$/jingdong/css/index.css" />
       </list>
     </option>
   </component>
@@ -175,6 +181,22 @@
               <item name="exercise" type="b2602c69:ProjectViewProjectNode" />
               <item name="exercise" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="exercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="jingdong" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="jingdong" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="vuetest" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -190,12 +212,13 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\studyDemo\exercise\jingdong\js" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\studyDemo\exercise\" />
       <recent name="D:\studyDemo\exercise\jingdong\img" />
       <recent name="D:\studyDemo\exercise\go_top" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\studyDemo\exercise\jingdong\js" />
       <recent name="D:\studyDemo\exercise\jingdong\img" />
       <recent name="D:\studyDemo\exercise\go_top" />
     </key>
@@ -237,7 +260,8 @@
       <workItem from="1537850427917" duration="5502000" />
       <workItem from="1537872596532" duration="926000" />
       <workItem from="1538486577077" duration="59000" />
-      <workItem from="1538487255152" duration="1086000" />
+      <workItem from="1538487255152" duration="1432000" />
+      <workItem from="1538656847624" duration="2808000" />
     </task>
     <task id="LOCAL-00001" summary="move">
       <created>1530589178194</created>
@@ -295,11 +319,18 @@
       <option name="project" value="LOCAL" />
       <updated>1537855275404</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="一个有点意思的小功能（H5画板和随机双色球）">
+      <created>1538488469998</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1538488469998</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79284000" />
+    <option name="totallyTimeSpent" value="82438000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -317,7 +348,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="运行" order="7" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32991454" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32933104" />
       <window_info anchor="bottom" id="消息" order="12" weight="0.32933104" />
@@ -341,17 +372,11 @@
     <MESSAGE value="小小改动，实现无缝滚动轮播图。" />
     <MESSAGE value="小小改动,修改左侧导航栏。" />
     <MESSAGE value="修改小BUG" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改小BUG" />
+    <MESSAGE value="一个有点意思的小功能（H5画板和随机双色球）" />
+    <option name="LAST_COMMIT_MESSAGE" value="一个有点意思的小功能（H5画板和随机双色球）" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/vuetest/test.vue" />
-    <entry file="file://$PROJECT_DIR$/vuetest/vue.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="33">
-          <caret line="295" column="12" selection-start-line="295" selection-start-column="8" selection-end-line="295" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vuetest/test.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="363">
@@ -399,9 +424,37 @@
     <entry file="file://$PROJECT_DIR$/jingdong/js/jquery-3.3.1.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/双色球.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="46" column="74" lean-forward="true" selection-start-line="39" selection-start-column="4" selection-end-line="46" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vuetest/vue.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8382">
+          <caret line="456" column="1" lean-forward="true" selection-start-line="456" selection-start-column="1" selection-end-line="456" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js-toy.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="80" column="36" selection-start-line="80" selection-start-column="36" selection-end-line="80" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jingdong/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="438" column="30" lean-forward="true" selection-start-line="438" selection-start-column="30" selection-end-line="438" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/jingdong/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="470">
+        <state relative-caret-position="73">
           <caret line="277" column="26" selection-start-line="277" selection-start-column="26" selection-end-line="277" selection-end-column="26" />
           <folding>
             <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
@@ -423,27 +476,6 @@
             <element signature="n#style#0;n#div#0;n#li#15;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#li#16;n#ul#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jingdong/css/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11088">
-          <caret line="336" column="5" selection-start-line="336" selection-start-column="5" selection-end-line="336" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/双色球.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="46" column="74" lean-forward="true" selection-start-line="39" selection-start-column="4" selection-end-line="46" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vuetest/js-toy.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
         </state>
       </provider>
     </entry>
