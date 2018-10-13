@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<style>
+    body{
+        transform-style: preserve-3d;   
+    }  
+    #ff{
+        position: relative;
+        left: 100px;
+        top: 100px;
+        width: 101px;
+        height: 101px;
+        border: #333333 dashed 1px;
+    } 
+     #content{
+        position: absolute;
+        background: #000;
+       transform: rotateY(90deg);
+        width: 100px;
+        height: 100px;
+    }
+</style>
+<body>
+<div id="ff">
+    <div id="content"></div>
+</div>
+
+
+</body>
+</html>
