@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+<style>
+    * {
+        margin: 0;
+        padding: 0;
+    }
+
+    #menu {
+        position: relative;
+        background-color: #000;
+        width: 64px;
+        color: #fff;
+    }
+    #box{
+        position: relative;
+        width: 64px;
+        height: 190px;
+        overflow: hidden;
+    }
+
+    #jump{
+        display: none;
+        position: absolute;
+        background-color: #000;
+        top:-190px;
+    }
+    .move{
+        animation: run 1s ease-in-out forwards;
+    }
+    #jump #run{
+        float: left;
+    }
+    @keyframes run{
+        0%{top: -190;}
+        100%{top:0px;}
+    }
+
+</style>
+</head>
+<body>
+<div id="menu">学习中心</div>
+<div id="box">
+<div id="jump">
+    <ul id="run">
+        <li><a href="#">视频学习</a></li>
+        <li><a href="#">案例学习</a></li>
+        <li><a href="#">交流平台</a></li>
+        <li><a href="#">视频学习</a></li>
+        <li><a href="#">案例学习</a></li>
+        <li><a href="#">交流平台</a></li>
+        <li><a href="#">视频学习</a></li>
+        <li><a href="#">案例学习</a></li>
+        <li><a href="#">交流平台</a></li>
+    </ul>
+</div>
+</div>
+</div>
+<script>
+    let oBox = document.querySelector("#menu");    
+    let oJump = document.querySelector("#jump"); 
+    oBox.onmouseover = function(){
+        oJump.style.display = "block";
+        oJump.classList.add("move");
+    }
+    oBox.onmouseout = function(){
+        oJump.style.display = "none";
+        oJump.classList.remove("move");
+    }
+
+    
+</script>
+</body>
+</html>
